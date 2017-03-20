@@ -57,7 +57,7 @@ http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Alte
 * "48">Sample Models/Biology/Unverified/Algae
 * "49">Sample Models/Biology/Unverified/Plant Growth
 * "50">Sample Models/Biology/Unverified/Wolf Sheep Stride Inheritance
-* "51">Sample Models/Chemistry &amp; Physics/Gas Chromatography
+* "51">Sample Models/Chemistry &amp; Physics/Gas Chromatography S
 * "52">Sample Models/Chemistry &amp; Physics/Ising
 * "53">Sample Models/Chemistry &amp; Physics/Kicked Rotator
 * "54">Sample Models/Chemistry &amp; Physics/Kicked Rotators
@@ -68,36 +68,36 @@ http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Alte
 * "59">Sample Models/Chemistry &amp; Physics/Solid Diffusion
 * "60">Sample Models/Chemistry &amp; Physics/Turbulence
 * "61">Sample Models/Chemistry &amp; Physics/Chemical Reactions/B-Z Reaction
-* "62">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Chemical Equilibrium
-* "63">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Enzyme Kinetics
-* "64">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Radical Polymerization
-* "65">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Simple Kinetics 1
-* "66">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Simple Kinetics 2
-* "67">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Simple Kinetics 3
-* "68">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Acids and Bases/Buffer
-* "69">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Acids and Bases/Strong Acid
-* "70">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Acids and Bases/Weak Acid
-* "71">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Acids and Bases/Unverified/Diprotic Acid
+* "62">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Chemical Equilibrium M
+* "63">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Enzyme Kinetics S
+* "64">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Radical Polymerization MS
+* "65">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Simple Kinetics 1 MS
+* "66">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Simple Kinetics 2 MS
+* "67">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Simple Kinetics 3 MS
+* "68">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Acids and Bases/Buffer S
+* "69">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Acids and Bases/Strong Acid MS
+* "70">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Acids and Bases/Weak Acid MS
+* "71">Sample Models/Chemistry &amp; Physics/Chemical Reactions/Acids and Bases/Unverified/Diprotic Acid MS
 * "72">Sample Models/Chemistry &amp; Physics/Crystallization/Crystallization Basic
 * "73">Sample Models/Chemistry &amp; Physics/Crystallization/Crystallization Directed
 * "74">Sample Models/Chemistry &amp; Physics/Crystallization/Crystallization Moving
 * "75">Sample Models/Chemistry &amp; Physics/Diffusion Limited Aggregation/DLA Alternate Linear
 * "76">Sample Models/Chemistry &amp; Physics/Diffusion Limited Aggregation/DLA Alternate
 * "77">Sample Models/Chemistry &amp; Physics/Diffusion Limited Aggregation/DLA
-* "78">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Adiabatic Piston
-* "79">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Atmosphere
+* "78">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Adiabatic Piston MS
+* "79">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Atmosphere MS
 * "80">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Circular Particles
-* "81">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Free Gas
-* "82">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Gas in a Box
-* "83">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Gravity Box
-* "84">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Isothermal Piston
+* "81">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Free Gas M
+* "82">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Gas in a Box M
+* "83">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Gravity Box 
+* "84">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Isothermal Piston MS
 * "85">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Maxwells Demon
 * "86">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Single Collision
 * "87">Sample Models/Chemistry &amp; Physics/GasLab/GasLab Two Gas
 * "88">Sample Models/Chemistry &amp; Physics/GasLab/Unverified/GasLab Heat Box
-* "89">Sample Models/Chemistry &amp; Physics/GasLab/Unverified/GasLab Moving Piston
+* "89">Sample Models/Chemistry &amp; Physics/GasLab/Unverified/GasLab Moving Piston MS
 * "90">Sample Models/Chemistry &amp; Physics/GasLab/Unverified/GasLab Pressure Box
-* "91">Sample Models/Chemistry &amp; Physics/GasLab/Unverified/GasLab Second Law
+* "91">Sample Models/Chemistry &amp; Physics/GasLab/Unverified/GasLab Second Law MS
 * "92">Sample Models/Chemistry &amp; Physics/Heat/Boiling
 * "93">Sample Models/Chemistry &amp; Physics/Heat/Unverified/Heat Diffusion
 * "94">Sample Models/Chemistry &amp; Physics/Heat/Unverified/Thermostat
@@ -105,7 +105,7 @@ http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Alte
 * "96">Sample Models/Chemistry &amp; Physics/Mechanics/Random Balls
 * "97">Sample Models/Chemistry &amp; Physics/Mechanics/Unverified/Gravitation
 * "98">Sample Models/Chemistry &amp; Physics/Mechanics/Unverified/N-Bodies
-* "99">Sample Models/Chemistry &amp; Physics/Radioactivity/Decay
+* "99">Sample Models/Chemistry &amp; Physics/Radioactivity/Decay MS
 * "100">Sample Models/Chemistry &amp; Physics/Radioactivity/Unverified/Reactor Top Down
 * "101">Sample Models/Chemistry &amp; Physics/Radioactivity/Unverified/Reactor X-Section
 * "102">Sample Models/Chemistry &amp; Physics/Unverified/Osmotic Pressure
